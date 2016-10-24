@@ -1,0 +1,48 @@
+# Header
+menu:
+  Home: /
+  Archives: /archives
+
+# Logo Image Source
+logo_src: /images/logo.svg
+
+# Theme Main Subtitle
+subtitle_main: Comics | Illustration | Design +
+
+# Theme Secondary subtitle
+susbtitle_secondary:
+
+# Footer About Section
+about_footer: Donna Almendrala is a Bay Area cartoonist who likes to draw monkeys, submarines and food, just to name a few. She is an avid proponent of board games and RPGS. She also specializes in illustration, web design and development, print production, and game design.
+
+# Default post title
+default_post_title: Untitled
+
+# Default post cover index page (Recommended)
+default_cover_index: "http://placehold.it/450x450"
+
+# Default post cover index page (Optional)
+default_cover_detail:
+
+# Show Dates for posts and pages
+show_dates:
+
+# Comments. Choose one by filling up the information
+comments:
+  # Disqus comments
+  disqus_shortname:
+  # Facebook comments
+  facebook:
+    appid:
+    comment_count: 5
+    comment_colorscheme: light
+
+# Google Analytics Tracking ID
+google_analytics:
+
+# Social Accounts
+twitter_url: https://twitter.com/madmacaques?lang=en
+instagram_url: https://www.instagram.com/donnamata
+github_url: https://github.com/donnasaur
+email_url: mailto:donna@madmacaques.com
+rss_url: \#
