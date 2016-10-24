@@ -17,7 +17,7 @@ I decided to make some kind of ancient tome, a la Necronomicon, sort of like the
 
 Our assignment this week is to block out the basic shapes with polygons. It's been an okay learning process so far. There's a lot of complexity in Maya that I'm not even aware of yet, but so far getting the hang of just tumbling around the space and creating shapes, moving them around, etc.
 
-Interesting fact of the week: camera manipulation move around object the space uses the same terms they use for cinematic directing. So if you already know dolly, track, tumble, frame, you are set!
+Interesting fact of the week: camera manipulation to move around the object and space uses the same terms as used in cinematic directing. So if you already know dolly, track, tumble, frame, you are set!
 
 Here's what I have so far. Week 3 class is tonight so we'll see what kind of feedback I get.
 
