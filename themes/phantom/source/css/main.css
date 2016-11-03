@@ -48,6 +48,9 @@
 		-webkit-text-size-adjust: none;
 	}
 
+	img {
+  width: 100%; }
+
 /* Box Model */
 
 	*, *:before, *:after {
