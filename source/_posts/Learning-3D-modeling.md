@@ -6,7 +6,7 @@ tags:
 - Necronomicon
 - 3D
 - book
-cover_index: /2016/10/24/Learning-3D-modeling/basic-book-model.png
+cover_index: /2016/10/24/Learning-3D-modeling/basic-book-model-index.png
 ---
 
 One of my goals for the next year is to learn the basics of 3D modeling. I am exposed to a lot of 3D concepts because of my job, reviewing sculpts and toys at the studio, but I don't have a sculpting background or knowledge of any of the 3D modeling software that's out there.
