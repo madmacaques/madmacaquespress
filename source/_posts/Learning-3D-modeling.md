@@ -7,7 +7,6 @@ tags:
 - 3D
 - book
 cover_index: /2016/10/24/Learning-3D-modeling/basic-book-model.png
-cover_detail: /2016/10/24/Learning-3D-modeling/basic-book-model.png
 ---
 
 One of my goals for the next year is to learn the basics of 3D modeling. I am exposed to a lot of 3D concepts because of my job, reviewing sculpts and toys at the studio, but I don't have a sculpting background or knowledge of any of the 3D modeling software that's out there.
@@ -20,4 +19,6 @@ Our assignment this week is to block out the basic shapes with polygons. It's be
 
 Interesting fact of the week: camera manipulation to move around the object and space uses the same terms as used in cinematic directing. So if you already know dolly, track, tumble, frame, you are set!
 
-The first image is what I have so far. Week 3 class is tonight so we'll see what kind of feedback I get.
+This is what I have so far. Week 3 class is tonight so we'll see what kind of feedback I get.
+
+{% asset_img basic-book-model.png %}
