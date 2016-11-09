@@ -1,5 +1,5 @@
 ---
-title: Learning 3D Modeling: Week 3
+title: 'Learning 3D Modeling: Week 3'
 date: 2016-11-08 20:51:12
 tags:
 - Maya
