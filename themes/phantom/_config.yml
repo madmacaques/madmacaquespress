@@ -1,6 +1,7 @@
 # Header
 menu:
   Home: /
+  Store: /store
   Archives: /archives
 
 # Logo Image Source
@@ -13,7 +14,7 @@ subtitle_main: Comics | Illustration | Design
 susbtitle_secondary:
 
 # Footer About Section
-about_footer: Donna Almendrala is a Bay Area cartoonist who likes to draw monkeys, submarines and food, just to name a few. She is an avid proponent of board games and RPGS. She also specializes in illustration, web design and development, print production, and game design.
+about_footer: Donna Almendrala is a Bay Area cartoonist who likes to draw apes, submarines and food, just to name a few. She is an avid proponent of board games and RPGs. She also specializes in illustration, web design and development, print production, and game design.
 
 # Default post title
 default_post_title: Untitled
