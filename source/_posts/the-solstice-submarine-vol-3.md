@@ -6,21 +6,6 @@ tags:
 - solstice
 - submarine
 - sub
-photos:
-- 2016/12/30/the-solstice-submarine-vol-3/ss3_comic_1.png
-- 2016/12/30/the-solstice-submarine-vol-3/ss3_comic_2.png
-- 2016/12/30/the-solstice-submarine-vol-3/ss3_comic_3.png
-- 2016/12/30/the-solstice-submarine-vol-3/ss3_comic_4.png
-- 2016/12/30/the-solstice-submarine-vol-3/ss3_comic_5.png
-- 2016/12/30/the-solstice-submarine-vol-3/ss3_comic_6.png
-- 2016/12/30/the-solstice-submarine-vol-3/ss3_comic_7.png
-- 2016/12/30/the-solstice-submarine-vol-3/ss3_comic_8.png
-- 2016/12/30/the-solstice-submarine-vol-3/ss3_comic_9.png
-- 2016/12/30/the-solstice-submarine-vol-3/ss3_comic_10.png
-- 2016/12/30/the-solstice-submarine-vol-3/ss3_comic_11.png
-- 2016/12/30/the-solstice-submarine-vol-3/ss3_comic_12.png
-- 2016/12/30/the-solstice-submarine-vol-3/ss3_comic_13.png
-- 2016/12/30/the-solstice-submarine-vol-3/ss3_comic_14.png
 cover_index: /2016/12/30/the-solstice-submarine-vol-3/ss3_comic_cover_index.png
 ---
 {% asset_img ss3_comic_1.png The Solstice Submarine vol. 3 p1 %}

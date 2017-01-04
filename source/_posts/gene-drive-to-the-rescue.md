@@ -4,11 +4,6 @@ date: 2016-12-30 20:02:11
 tags:
 - comics
 - science
-photos:
-- 2016/12/30/gene-drive-to-the-rescue/gene-drive_1.png
-- 2016/12/30/gene-drive-to-the-rescue/gene-drive_2.png
-- 2016/12/30/gene-drive-to-the-rescue/gene-drive_3.png
-- 2016/12/30/gene-drive-to-the-rescue/gene-drive_4.png
 cover_index: /2016/12/30/gene-drive-to-the-rescue/gene-drive_cover_index.png
 ---
 For Bay Nature Magazine July 2016
