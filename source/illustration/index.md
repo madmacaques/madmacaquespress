@@ -15,5 +15,4 @@ photos:
 - 2016/12/30/christmas-portraits/siblings.png
 - 2016/12/30/christmas-portraits/poe.png
 - illustration/index/megadonna.png
-- illustration/index/self_portrait.png
 ---
