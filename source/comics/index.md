@@ -9,3 +9,6 @@ Science comic for Bay Nature describing Gene Drive technology (2016)
 
 ## [The Solstice Submarine vol. 3](/2016/12/30/the-solstice-submarine-vol-3)
 The Solstice Submarine goes on a journey to the atomic scale and beyond (2012)
+
+## [Chimpcy](/2017/04/26/chimpcy)
+Strip drawn for the Cartoon Crier (2012)
