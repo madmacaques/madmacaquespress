@@ -5,6 +5,7 @@ tags:
 - portraits
 - illustration
 - comics
+- inktober
 cover_index: /2017/06/21/the-wanderer-s-guide-zine/wanderersguide_full_cover_index.png
 ---
 Journal of sketches of people and creatures encountered while traversing the wilds (2017)

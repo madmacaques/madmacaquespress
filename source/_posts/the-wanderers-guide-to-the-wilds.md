@@ -4,6 +4,7 @@ date: 2017-01-08 16:46:05
 tags:
 - portraits
 - illustration
+- inktober
 photos:
 - 2017/01/08/the-wanderers-guide-to-the-wilds/halfling.jpg
 - 2017/01/08/the-wanderers-guide-to-the-wilds/wolf-fungus.jpg

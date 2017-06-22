@@ -4,6 +4,7 @@ date: 2017-06-21 20:17:09
 tags:
 - comics
 - apes
+- inktober
 cover_index: /2017/06/21/pick-your-poison/pick_your_poison_full_cover_index.png
 ---
 Collected drawings of an Inktober challenge about a monkey who meets a demon (2017)
