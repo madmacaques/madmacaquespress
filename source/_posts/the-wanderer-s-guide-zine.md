@@ -10,6 +10,8 @@ cover_index: /2017/06/21/the-wanderer-s-guide-zine/wanderersguide_full_cover_ind
 ---
 Journal of sketches of people and creatures encountered while traversing the wilds (2017)
 
+[Purchase print version here](https://squareup.com/store/mad-macaques-press/item/wanderers-guide-to-the-wilds)
+
 {% asset_img wanderersguide_full_Page_01.png The Wanderer's Guide Zine p1 %}
 {% asset_img wanderersguide_full_Page_03.png The Wanderer's Guide Zine p3 %}
 {% asset_img wanderersguide_full_Page_04.png The Wanderer's Guide Zine p4 %}

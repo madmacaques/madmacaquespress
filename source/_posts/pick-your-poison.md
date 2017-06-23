@@ -9,6 +9,8 @@ cover_index: /2017/06/21/pick-your-poison/pick_your_poison_full_cover_index.png
 ---
 Collected drawings of an Inktober challenge about a monkey who meets a demon (2017)
 
+[Purchase print version here](https://squareup.com/store/mad-macaques-press/item/pick-your-poison)
+
 {% asset_img pick_your_poison_full_Page_01.png Pick Your Poison p1 %}
 {% asset_img pick_your_poison_full_Page_03.png Pick Your Poison p3 %}
 {% asset_img pick_your_poison_full_Page_04.png Pick Your Poison p4 %}
