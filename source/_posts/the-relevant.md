@@ -6,9 +6,9 @@ tags:
 - apes
 cover_index: /2017/06/21/the-relevant/the-relevant-full_cover_index.png
 ---
-An ape and an owl embark on a simple journey for revenge (2016)
+A one-armed ape and an owl embark on a simple journey for revenge (2016)
 
-[Purchase print version here](https://squareup.com/store/mad-macaques-press/item/lone-rock-falls-anthology)
+[Purchase print version here](https://store.madmacaques.com/item/lone-rock-falls-anthology)
 
 {% asset_img the-relevant-full_Page_01.png The Relevant p1 %}
 {% asset_img the-relevant-full_Page_02.png The Relevant p2 %}

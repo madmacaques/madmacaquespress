@@ -10,7 +10,7 @@ cover_index: /2017/06/21/the-solstice-submarine-3d/ss4-full_cover_index.png
 ---
 The Solstice Submarine travels back to the Cretaceous era to explore in 3D (2014)
 
-[Purchase print version here](https://squareup.com/store/mad-macaques-press/item/solstice-sub-d)
+[Purchase print version here](https://store.madmacaques.com/item/solstice-sub-d)
 
 {% asset_img ss4-full_Page_01.png The Solstice Submarine 3D p1 %}
 {% asset_img ss4-full_Page_03.png The Solstice Submarine 3D p3 %}
