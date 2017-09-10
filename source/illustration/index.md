@@ -4,6 +4,8 @@ date: 2017-04-26 20:43:03
 tags:
 - illustration
 photos:
+- 2017/09/09/luminaries/luminaries-2_square.png
+- 2017/09/09/luminaries/luminaries-1_square.png
 - 2017/08/20/birbwatching/birbcrastinating.png
 - 2017/08/20/birbwatching/birbfe.png
 - 2017/08/20/birbwatching/birbpocalypse.png
