@@ -6,6 +6,14 @@ tags:
 photos:
 - 2017/09/09/luminaries/luminaries-2_square.png
 - 2017/09/09/luminaries/luminaries-1_square.png
+- 2017/11/12/birbwatching-part-ii/birbing_from_home.png
+- 2017/11/12/birbwatching-part-ii/birblennials.png
+- 2017/11/12/birbwatching-part-ii/birbrunch.png
+- 2017/11/12/birbwatching-part-ii/birbspoke.png
+- 2017/11/12/birbwatching-part-ii/birbtention.png
+- 2017/11/12/birbwatching-part-ii/birbtisanal.png
+- 2017/11/12/birbwatching-part-ii/practicing_birbcare.png
+- 2017/11/12/birbwatching-part-ii/social_birbxiety.png
 - 2017/08/20/birbwatching/birbcrastinating.png
 - 2017/08/20/birbwatching/birbfe.png
 - 2017/08/20/birbwatching/birbpocalypse.png
