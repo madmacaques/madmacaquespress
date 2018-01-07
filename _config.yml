@@ -69,5 +69,5 @@ theme: phantom
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:madmacaques/madmacaques.github.io.git
+  repo: https://donnamatata@github.com/madmacaques/madmacaques.github.io.git
   branch: master

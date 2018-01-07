@@ -4,3 +4,7 @@ node_js:
 branches:
   only:
     - master
+before_script:
+  - git config --global user.name "Donna via CI"
+  - git config --global user.email "donnamatata@gmail.com"
+  - sed -i "s/donnamatata/${__GITHUB_TOKEN__}/" _config.yml
