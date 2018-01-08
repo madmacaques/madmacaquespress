@@ -6,7 +6,7 @@ tags:
 - illustration
 - prints
 - birds
-cover_index: /images/practicing_birbcare_cover_index.png
+cover_index: /2017/11/12/birbwatching-part-ii/practicing_birbcare_cover_index.png
 ---
 My latest book [Birbwatching](https://squareup.com/store/mad-macaques-press/item/birbwatching) is now officially available on my [online store](https://squareup.com/store/mad-macaques-press/item/birbwatching)! It is a collection of birbs observed by an amateur, but can be enjoyed by experts and newbies alike.
 
