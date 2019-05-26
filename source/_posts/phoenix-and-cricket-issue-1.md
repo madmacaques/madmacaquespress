@@ -10,6 +10,7 @@ About a year ago, I mentioned creating illustrations for my brother-in-law, [Luc
 Drakensberg
 {% asset_img drakensberg-1.png Drakensberg 1 %}
 {% asset_img drakensberg-2.png Drakensberg 2 %}
+{% asset_img drakensberg-3.png Drakensberg 3 %}
 
 Luminaries
 {% asset_img luminaries-1.png Luminaries 1 %}
@@ -22,6 +23,7 @@ Magic
 Tafelberg
 {% asset_img tafelberg-1.png Tafelberg 1 %}
 {% asset_img tafelberg-2.png Tafelberg 2 %}
+{% asset_img tafelberg-3.png Tafelberg 3 %}
 
 The Far Shore
 {% asset_img thefarshore-1.png The Far Shore 1 %}
