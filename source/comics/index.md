@@ -4,7 +4,7 @@ date: 2016-12-27 22:42:14
 tags:
 - comics
 ---
-## [The Wanderer's Guide Zine](/2017/06/21/wanderer-s-guide-zine)
+## [The Wanderer's Guide Zine](/2017/06/21/the-wanderer-s-guide-zine)
 Journal of sketches of people and creatures encountered while traversing the wilds (2017)
 
 ## [Pick Your Poison](/2017/06/21/pick-your-poison)
