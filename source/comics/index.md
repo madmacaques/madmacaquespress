@@ -7,6 +7,9 @@ tags:
 ## [Desert Dreamin' Vol. 2 - Irreverent](/2020/06/16/desert-dreamin-vol-2/)
 A lonely, overwhelmed owl learns how to step away from the chaos and find peace in the moment (2020)
 
+## [Food Fan Zine Vol. 1](/2020/06/16/food-fan-zine-vol-1/)
+An anthology of food stories and recipes in comic form plus more (2018)
+
 ## [The Wanderer's Guide Zine](/2017/06/21/the-wanderer-s-guide-zine)
 Journal of sketches of people and creatures encountered while traversing the wilds (2017)
 
