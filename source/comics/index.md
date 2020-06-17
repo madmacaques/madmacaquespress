@@ -4,13 +4,16 @@ date: 2016-12-27 22:42:14
 tags:
 - comics
 ---
+## [Desert Dreamin' Vol. 2 - Irreverent](/2020/06/16/desert-dreamin-vol-2/)
+A lonely, overwhelmed owl learns how to step away from the chaos and find peace in the moment (2020)
+
 ## [The Wanderer's Guide Zine](/2017/06/21/the-wanderer-s-guide-zine)
 Journal of sketches of people and creatures encountered while traversing the wilds (2017)
 
 ## [Pick Your Poison](/2017/06/21/pick-your-poison)
 Collected drawings of an Inktober challenge about a monkey who meets a demon (2017)
 
-## [The Relevant](/2017/06/21/the-relevant)
+## [Desert Dreamin' Vol. 1 - The Relevant](/2017/06/21/the-relevant)
 An ape and an owl embark on a simple journey for revenge (2016)
 
 ## [Gene Drive to the Rescue](/2016/12/30/gene-drive-to-the-rescue)
