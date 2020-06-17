@@ -4,6 +4,8 @@ date: 2017-06-21 20:17:00
 tags:
 - comics
 - apes
+- birds
+- desert dreamin' series
 cover_index: /2017/06/21/the-relevant/the-relevant-full_cover_index.png
 ---
 A one-armed ape and an owl embark on a simple journey for revenge (2016)
