@@ -8,7 +8,7 @@ tags:
 cover_index: /2020/06/16/desert-dreamin-vol-2/dd2_cover_index.png
 ---
 
-A lonely, overwhelmed owl learns how to step away from the chaos and find peace in the moment (2020)
+A lonely, overwhelmed owl learns how to step away from the chaos and find peace in the moment (2019)
 
 [Purchase print version here](https://store.madmacaques.com/product/desert-dreamin-2/15)
 

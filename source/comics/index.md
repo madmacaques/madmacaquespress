@@ -5,7 +5,7 @@ tags:
 - comics
 ---
 ## [Desert Dreamin' Vol. 2 - Irreverent](/2020/06/16/desert-dreamin-vol-2/)
-A lonely, overwhelmed owl learns how to step away from the chaos and find peace in the moment (2020)
+A lonely, overwhelmed owl learns how to step away from the chaos and find peace in the moment (2019)
 
 ## [Food Fan Zine Vol. 1](/2020/06/16/food-fan-zine-vol-1/)
 An anthology of food stories and recipes in comic form plus more (2018)
